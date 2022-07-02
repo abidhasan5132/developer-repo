@@ -1,0 +1,25 @@
+body{
+    ont-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: chocolate;
+}
+.button{
+    color: white;
+    background-color: blue;
+    padding: 5px;
+    text-decoration: none;
+}
+section{
+    display: flex;
+    padding-left: 20px;
+}
+img{
+    height: 30em;
+}
+.width{
+    width: 50%;
+}
